@@ -114,9 +114,7 @@ Note : Les LED sont "actives à bas", signifiant que HIGH == off, LOW == on
 |Patte|Utilisation|Note|
 |---|---|----|
 |S1|GND|près de USB-SERIAL|
-|S2|
-
-3.3v|pour ESP32|
+|S2|3.3v|pour ESP32|
 |S3|5v|près de USB-SERIAL|
 |S4|GND|pour ESP32|
 |S5|3.3v|pour TFT|
