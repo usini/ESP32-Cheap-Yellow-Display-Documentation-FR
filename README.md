@@ -11,7 +11,7 @@ Il existe un ESP32 avec un écran LCD intégré de 320 x 240 avec un écran tact
 Le CYD a les caractéristiques suivantes :
 
 - ESP32 (Avec Wifi et Bluetooth)
-- Écran LCD de 320 x 240
+- Écran LCD de 320 x 240 (2.8")
 - Écran tactile (résistif)
 - USB pour l'alimentation et la programmation
 - Un lecteur de carte microSD, une LED RGB et quelques broches supplémentaires sont disponibles
