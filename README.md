@@ -2,7 +2,7 @@
 
 [Lien vers le projet (Anglais)](https://github.com/witnessmenow/ESP32-Cheap-Yellow-Display)
 
-Il existe un ESP32 avec un écran LCD intégré de 320 x 240 avec un écran tactile, appelé "ESP32-2432S028R", mais comme ce n'est pas très facile à prononcer, je propose de le renommer "Cheap Yellow Display" ou CYD pour faire court. Cet afficheur coûte seulement environ 15$ avec la livraison, donc je pense qu'il représente une très bonne affaire.
+Il existe un ESP32 avec un écran LCD intégré de 320 x 240 tactile, appelé "ESP32-2432S028R", mais comme ce n'est pas très facile à prononcer, je propose de le renommer "Cheap Yellow Display" ou CYD pour faire court. Cet afficheur coûte seulement dans les 15$ avec la livraison, donc je pense qu'il représente une très bonne affaire.
 
 ![image](https://github.com/witnessmenow/ESP32-Cheap-Yellow-Display/assets/1562562/76c3d481-2523-4b6f-881c-2e29f9368cd0)
 
@@ -32,9 +32,9 @@ Il y a quelques années, j'ai sorti [ESP32 Trinity](https://github.com/witnessme
 
 Je ne crée plus de produits matériels, mais je pense qu'il serait intéressant de créer le même type de communauté autour de cet afficheur, où les gens peuvent partager des exemples et des projets réalisés pour cet afficheur.
 
-## Où acheter ?
+## Où l'acheter ?
 
-Achetez là où cela vous revient le moins cher :
+Voici quelques liens pour acheter la carte, choissisez celui qui vous revient le moins cher :
 
 - [Aliexpress\*](https://s.click.aliexpress.com/e/_DkSpIjB)
 - [Aliexpress\*](https://s.click.aliexpress.com/e/_DkcmuCh)
