@@ -65,7 +65,7 @@ Des exemples pour utiliser le CYD dans ESPHome. [Consultez-les ici.](https://git
 
 ### Discord
 
-Rejoignez la discussion sur l'AYE dans [mon canal Discord](https://discord.gg/nnezpvq)
+Rejoignez la discussion sur le CYD dans [mon canal Discord](https://discord.gg/nnezpvq)
 
 ### Impression 3D
 
